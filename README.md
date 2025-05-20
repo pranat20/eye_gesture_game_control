@@ -1,4 +1,4 @@
-first install pycharm in you system
+first install pycharm in your system
 check your python version should not be above 3.10 as the mediapipe will not work
 after opening pycharm create a new project
 now install packages - opencv-contrib-python
