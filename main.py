@@ -1,3 +1,4 @@
+'''This Project is created by Pranat Pagar ppagar602@gmail.com''' 
 import cv2
 import mediapipe as mp
 import pyautogui
