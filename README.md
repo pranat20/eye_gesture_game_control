@@ -4,7 +4,7 @@ after opening pycharm create a new project
 now install packages - opencv-contrib-python
                      - mediapipe
                      - AutoGui
-and now paste the give code in python file give it the name main.py
+and now paste the given code in python file give it the name main.py
 and boom your controller is now working
 
 Thankyou ------- @pranatpagar
